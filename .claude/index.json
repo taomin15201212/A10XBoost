@@ -1,0 +1,298 @@
+{
+  "timestamp": "2026-02-24T11:05:37",
+  "project": {
+    "name": "AI编程从0到1之10X提效",
+    "description": "落实 AI 辅助编程到驾驭 AI 编程全篇章: IDE 编辑器, LLM 编码模型, CLI 终端, Extensions/Plugins 扩展插件, Agents 智能体, AI 工作流编排, Agent Skills 技能, MCP 协议, Vibe Design, Vibe Build",
+    "path": "/Users/keen/vibe/MD/AI编程从0到1之10X提效"
+  },
+  "scan_summary": {
+    "total_files": 88,
+    "scanned_files": 13,
+    "coverage_percent": 14.8,
+    "ignored_files": 75,
+    "truncated": false
+  },
+  "modules": [
+    {
+      "id": "01",
+      "name": "IDE编辑器",
+      "path": "AI编程从0到1之10X提效（AI IDE编辑器 ）01篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "AI 驱动 IDE 选型与高效使用方法论",
+      "illustrations_path": "illustrations/ai-ide-10x/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "02",
+      "name": "LLM编码模型",
+      "path": "AI编程从0到1之10X提效（AI LLM厂商及模型 ）02篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "2026 年全球顶尖 AI 模型全景与选型指南",
+      "illustrations_path": "illustrations/ai-llm-vendors-models/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "03",
+      "name": "CLI终端工具",
+      "path": "AI编程从0到1之10X提效（AI 终端 ）03篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "Top10 CLI AI 编程工具对比与选型",
+      "illustrations_path": "illustrations/ai-cli-tools-top10/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "04",
+      "name": "Extensions/Plugins扩展插件",
+      "path": "AI编程从0到1之10X提效（AI Extensions Plugins 扩展插件 ）04篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "插件层能力搭建与工程化实践",
+      "illustrations_path": "illustrations/ai-extensions-plugins/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "05-A",
+      "name": "Agents智能体",
+      "path": "AI编程从0到1之10X提效（AI Agents 智能体 ）05-A 篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "Agent 工程化工具图谱与落地路径",
+      "illustrations_path": "illustrations/ai-agents/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "05-B",
+      "name": "AI工作流编排",
+      "path": "AI编程从0到1之10X提效（AI 工作流编排）05-B 篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "从单点工具到系统交付的编排方法论",
+      "illustrations_path": "illustrations/ai-workflow-orchestration/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "06",
+      "name": "Agent Skills技能",
+      "path": "AI编程从0到1之10X提效（Agent Skills）06篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "可复用 Agent 技能设计与沉淀",
+      "illustrations_path": "illustrations/agent-skills/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "07",
+      "name": "MCP协议",
+      "path": "AI编程从0到1之10X提效（Mcp 协议）07篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "Model Context Protocol 入门与生态",
+      "illustrations_path": "illustrations/mcp-protocol-guide/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "08",
+      "name": "Vibe Design",
+      "path": "AI编程从0到1之10X提效（Vibe Design 氛围式设计 ）08篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "AI 驱动的氛围式设计方法论",
+      "illustrations_path": "illustrations/vibe-design-08/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "09",
+      "name": "Vibe Build",
+      "path": "AI编程从0到1之10X提效（Vibe Coding 氛围式编码 ）09篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "Vibe Coding 氛围式编码实践指南",
+      "illustrations_path": "illustrations/vibe-coding-09/",
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": true,
+        "gaps": []
+      }
+    },
+    {
+      "id": "10",
+      "name": "Serverless API",
+      "path": "AI编程从0到1之10X提效（Serverless API  服务接口 ）10篇.md",
+      "type": "article",
+      "language": "markdown",
+      "description": "Serverless API 服务接口设计 (占位)",
+      "illustrations_path": null,
+      "coverage": {
+        "content_read": true,
+        "illustrations_scanned": false,
+        "gaps": ["content_empty"]
+      }
+    }
+  ],
+  "illustrations": {
+    "total_directories": 10,
+    "directories": [
+      {
+        "name": "ai-ide-10x",
+        "path": "illustrations/ai-ide-10x/",
+        "file_count": 4,
+        "types": [".png", ".webp"]
+      },
+      {
+        "name": "ai-llm-vendors-models",
+        "path": "illustrations/ai-llm-vendors-models/",
+        "file_count": 5,
+        "types": [".png"]
+      },
+      {
+        "name": "ai-cli-tools-top10",
+        "path": "illustrations/ai-cli-tools-top10/",
+        "file_count": 8,
+        "types": [".png", ".webp"]
+      },
+      {
+        "name": "ai-extensions-plugins",
+        "path": "illustrations/ai-extensions-plugins/",
+        "file_count": 8,
+        "types": [".png"]
+      },
+      {
+        "name": "ai-agents",
+        "path": "illustrations/ai-agents/",
+        "file_count": 5,
+        "types": [".png"]
+      },
+      {
+        "name": "ai-workflow-orchestration",
+        "path": "illustrations/ai-workflow-orchestration/",
+        "file_count": 7,
+        "types": [".png"]
+      },
+      {
+        "name": "agent-skills",
+        "path": "illustrations/agent-skills/",
+        "file_count": 4,
+        "types": [".png"]
+      },
+      {
+        "name": "mcp-protocol-guide",
+        "path": "illustrations/mcp-protocol-guide/",
+        "file_count": 4,
+        "types": [".png"]
+      },
+      {
+        "name": "vibe-design-08",
+        "path": "illustrations/vibe-design-08/",
+        "file_count": 4,
+        "types": [".png"]
+      },
+      {
+        "name": "vibe-coding-09",
+        "path": "illustrations/vibe-coding-09/",
+        "file_count": 5,
+        "types": [".png"]
+      }
+    ]
+  },
+  "ignored": {
+    "rules": [
+      "node_modules/**",
+      ".git/**",
+      ".github/**",
+      "dist/**",
+      "build/**",
+      ".next/**",
+      "__pycache__/**",
+      "*.lock",
+      "*.log",
+      "*.bin",
+      "*.pdf",
+      "*.png",
+      "*.jpg",
+      "*.jpeg",
+      "*.gif",
+      "*.mp4",
+      "*.zip",
+      "*.tar",
+      "*.gz"
+    ],
+    "top_ignored": [
+      {
+        "pattern": "*.png",
+        "count": 54,
+        "reason": "binary_image"
+      },
+      {
+        "pattern": "*.webp",
+        "count": 8,
+        "reason": "binary_image"
+      },
+      {
+        "pattern": "illustrations/**/prompts/*.md",
+        "count": 13,
+        "reason": "illustration_prompts"
+      }
+    ]
+  },
+  "next_steps": [
+    {
+      "priority": "low",
+      "action": "补全 Serverless API 篇章内容",
+      "path": "AI编程从0到1之10X提效（Serverless API  服务接口 ）10篇.md"
+    },
+    {
+      "priority": "low",
+      "action": "扫描插图 prompts 目录获取生成提示词",
+      "path": "illustrations/**/prompts/"
+    },
+    {
+      "priority": "low",
+      "action": "检查各篇章插图备份文件",
+      "path": "illustrations/**/*-backup-*"
+    }
+  ],
+  "metadata": {
+    "last_scan": "2026-02-24T11:05:37",
+    "scanner_version": "init-architect-v1",
+    "coverage_status": "content_complete"
+  }
+}
