@@ -1,0 +1,44 @@
+Generating /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/01-infographic-ai-ide-landscape.png
+Generating image with Gemini... {
+  imageSize: "2K",
+}
+Generation completed.
+/Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/01-infographic-ai-ide-landscape.png
+SUCCESS /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/01-infographic-ai-ide-landscape.png
+Generated 1/4
+Generating /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/02-framework-selection-constraints.png
+Generating image with Gemini... {
+  imageSize: "2K",
+}
+Generation completed.
+/Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/02-framework-selection-constraints.png
+SUCCESS /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/02-framework-selection-constraints.png
+Generated 2/4
+Generating /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/03-flowchart-low-rework-loop.png
+Generating image with Gemini... {
+  imageSize: "2K",
+}
+Generation completed.
+/Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/03-flowchart-low-rework-loop.png
+SUCCESS /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/03-flowchart-low-rework-loop.png
+Generated 3/4
+Generating /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/04-comparison-model-role-mapping.png
+Generating image with Gemini... {
+  imageSize: "2K",
+}
+Generation completed.
+/Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/04-comparison-model-role-mapping.png
+SUCCESS /Users/keen/vibe/MD/《AI编程从入门到实践》/illustrations/ai-ide-10x/04-comparison-model-role-mapping.png
+Generated 4/4
+SUMMARY ok=4 fail=0
+total 18880
+drwxr-xr-x  10 keen  staff      320 Feb 22 08:59 .
+drwxr-xr-x  13 keen  staff      416 Feb 22 08:56 ..
+-rw-r--r--@  1 keen  staff  2482096 Feb 22 08:57 01-infographic-ai-ide-landscape.png
+-rw-r--r--@  1 keen  staff  2520755 Feb 22 08:57 02-framework-selection-constraints.png
+-rw-r--r--@  1 keen  staff  2112179 Feb 22 08:58 03-flowchart-low-rework-loop.png
+-rw-r--r--@  1 keen  staff  2531044 Feb 22 08:59 04-comparison-model-role-mapping.png
+-rw-r--r--   1 keen  staff     1831 Feb 22 08:59 generation.log
+-rw-r--r--   1 keen  staff     1880 Feb 22 08:56 outline.md
+drwxr-xr-x   6 keen  staff      192 Feb 22 08:56 prompts
+-rw-r--r--   1 keen  staff     6756 Feb 22 08:56 source-ai-ide-10x.md
